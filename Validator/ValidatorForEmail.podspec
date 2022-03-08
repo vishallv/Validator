@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "Validator"
+  spec.name         = "ValidatorForEmail"
   spec.version      = "1.0.0"
   spec.summary      = "A short description of Validator."
   spec.description  = "This is a email validator"
